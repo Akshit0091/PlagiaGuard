@@ -16,4 +16,5 @@ PlagiaGuard is an AI-powered plagiarism detection system that combines string ma
 ---
 
 ## 📂 Folder Structure
+Notebooks
 
